@@ -1,0 +1,41 @@
+*) Fungible:
+    -> The quality of an asset that can be exchanged with another asset of the same type.
+    -> Ex: 5rs + 5rs <-exchange-> 5rs + 5rs
+    -> Example of fungible assets include currencies, commodities, and precious stones.
+
+*) Non-Fungible:
+    -> The quality of an asset that are similar but not exchangeable.
+    ->EX: car with different model can't be exchanged
+    -> Non-fungible assets are unique, requiring much more complex valuation before a sale and include things like real estate, art, and sports cards
+
+*) Fungible and Non-Fungible - value:
+    -> Value - The amount that an open market is prepared to pay for something.
+    -> The value of things is determined by the following factors:
+        a) Feel while purchasing.
+        b) Demand and supply.
+        c) Quality - Good or Bad.
+        d) Usefulness
+
+*) Why NFT is needed?
+    => Trading of Physical items:
+        -> Advantages of Trading of Physical items:
+            a) Supply and Demand is maintained
+            b) to decide Ownership is quite easy
+    => Trading of Digital items:
+        -> Disadvantage of Trading of Digital items:
+            a) Any body can get the copy of that digital items
+            b) Supply >>>> Demand -> Price Less
+            c) Loss of Ownership
+            d) to hard to decide Ownership of items
+    
+    => Conclusion:
+        -> So, NFT solve the problem related to Trading of Digital items
+
+*) What is NFT?
+    -> In Layman terms NFT is a kind of collectible, similar to a pokemon card or painting.
+    -> The procedure of converting your work in an NFT is called minting.
+    -> The tech behind NFTs which is parallel to the cryptocurrencies such as Ethereum and Bitcoin as it depends on Blockchain.
+    -> you can't be able to exchange one NFT with another NFT so, it is called as non Fungible token
+    -> Feeling of ownership. Since every transaction is recorded on Blockchain.
+    -> These cannot be segmented into smaller parts.
+    -> Supply is limited
