@@ -39,3 +39,78 @@
     -> Feeling of ownership. Since every transaction is recorded on Blockchain.
     -> These cannot be segmented into smaller parts.
     -> Supply is limited
+
+
+*) Working of NFT:
+    -> EX:
+        -> <painting1> + ID_1 ---> NFT
+        -> painting/image get stored at IPFS or server
+        
+        -> <painting1> + ID_2 ---> NFT
+        -> NOTE: it doesn't mean that we can't be able to make multiple copy of that image
+        -> because these two image have different ID, These to are not equal NFT
+    
+
+*) Most popular NFT:
+    -> https://www.cryptokitties.co/ (game)
+    -> https://www.larvalabs.com/cryptopunks
+
+
+*) Why NFTs are so popular?
+    -> The component that makes NFT so popular is provide validation of authenticity.
+
+*) Feature of NFT:
+    -> indivisible
+    -> Indestructible
+    -> Verifiable
+    -> Non-Interchangeable (non-exchangeable)
+
+*) NFT Allows:
+    -> Buying of Digital items
+    -> Selling of Digital items
+    -> Verifying ownership of Digital items
+
+*) Advantages of NFT:
+    -> Cannot be robbed.
+    -> Verifiable
+    -> Ensure copyright
+    -> Transferable
+
+*) Other uses of NFT:
+    -> NFT can include the following:
+        -> Driving License
+        -> Certificates
+        -> Other documents
+        -> Games
+
+
+*) Myths related to NFT:
+    *) Myths:
+        -> described on photo in this same folder
+
+*) NFT marketplace:
+    => Some of the NFT marketplace are:
+        -> Open sea
+        -> Known origin 
+        -> The nifty gateway
+
+*) ERC standards for NFT:
+    -> ERC 721
+    -> ERC 994
+    -> ERC 420
+    -> ERC 809
+    -> ERC 1155
+
+*) ERC721
+    -> It implemented a standard interface between applications and smart contract driven tokens on Ethereum.
+    -> Some important functions of ERC721 - 
+        -> Token Transfer
+        -> Approval
+        -> Owner fo tokens
+        -> Balance of tokens
+
+*) OpenZeppelin:
+    -> The OpenZeppelin project is build and maintained by a company called Zeppelin.
+    -> The project is open source - anyone can use the Solidity contract files that are released by the project.
+    -> Many of the contract files that are present in the project have been battletested and are secure enough to be used in your project.
+    -> However, as a developer, you need to keep checking the issue that have been fixed on the OpenZeppelin Github Project.
